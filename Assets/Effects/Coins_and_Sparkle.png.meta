@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a749d3398ed786946bb72c53202f4786
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6331898721432128723
+    second: Coins_and_Sparkle_0
+  - first:
+      213: 2390840877395288111
+    second: Coins_and_Sparkle_1
+  - first:
+      213: 398274518147223027
+    second: Coins_and_Sparkle_2
+  - first:
+      213: 1042935217415530117
+    second: Coins_and_Sparkle_3
+  - first:
+      213: 7282134791426495115
+    second: Coins_and_Sparkle_4
+  - first:
+      213: 1445347305476689981
+    second: Coins_and_Sparkle_5
+  - first:
+      213: 3430222588628910743
+    second: Coins_and_Sparkle_6
+  - first:
+      213: -8529483789793810935
+    second: Coins_and_Sparkle_7
+  - first:
+      213: 9025877110688049609
+    second: Coins_and_Sparkle_8
+  - first:
+      213: 824203115969890775
+    second: Coins_and_Sparkle_9
+  - first:
+      213: 7647226108885857239
+    second: Coins_and_Sparkle_10
+  - first:
+      213: -9061224402121105721
+    second: Coins_and_Sparkle_11
+  - first:
+      213: -727533480473830702
+    second: Coins_and_Sparkle_12
+  - first:
+      213: 134664183056687661
+    second: Coins_and_Sparkle_13
+  - first:
+      213: -5826547121921823615
+    second: Coins_and_Sparkle_14
+  - first:
+      213: -1698357136951714123
+    second: Coins_and_Sparkle_15
+  - first:
+      213: -2868053195421074883
+    second: Coins_and_Sparkle_16
+  - first:
+      213: -4069701387361467762
+    second: Coins_and_Sparkle_17
+  - first:
+      213: -1378602071891578041
+    second: Coins_and_Sparkle_18
+  - first:
+      213: -2011101979472762603
+    second: Coins_and_Sparkle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc46bcd65c6fd750800000000000000
+      internalID: 6331898721432128723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2021ab5c19fd2120800000000000000
+      internalID: 2390840877395288111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 125
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd41496094f68500800000000000000
+      internalID: 398274518147223027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862cc5fd00497e00800000000000000
+      internalID: 1042935217415530117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 128
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b825d79a2075f0560800000000000000
+      internalID: 7282134791426495115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30910077b7ee0410800000000000000
+      internalID: 1445347305476689981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7924fbf25499a9f20800000000000000
+      internalID: 3430222588628910743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 113
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90623ef2faf21a980800000000000000
+      internalID: -8529483789793810935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 93
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9e3e8396b524d70800000000000000
+      internalID: 9025877110688049609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 105
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9c72efd58207b00800000000000000
+      internalID: 824203115969890775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 91
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3fb3911a7602a60800000000000000
+      internalID: 7647226108885857239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce58792a60104280800000000000000
+      internalID: -9061224402121105721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 91
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5726772847e5f0800000000000000
+      internalID: -727533480473830702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 56
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ef0b6c5c6ed100800000000000000
+      internalID: 134664183056687661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 60
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c66c25342f32fa0800000000000000
+      internalID: -5826547121921823615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 48
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5e36ae293e68e0800000000000000
+      internalID: -1698357136951714123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 26
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ab00a70d0a238d0800000000000000
+      internalID: -2868053195421074883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c76086248587c0800000000000000
+      internalID: -4069701387361467762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 21
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f84248b83edce0800000000000000
+      internalID: -1378602071891578041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_and_Sparkle_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 28
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e07aa7612714e0800000000000000
+      internalID: -2011101979472762603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Coins_and_Sparkle_0: 6331898721432128723
+      Coins_and_Sparkle_1: 2390840877395288111
+      Coins_and_Sparkle_10: 7647226108885857239
+      Coins_and_Sparkle_11: -9061224402121105721
+      Coins_and_Sparkle_12: -727533480473830702
+      Coins_and_Sparkle_13: 134664183056687661
+      Coins_and_Sparkle_14: -5826547121921823615
+      Coins_and_Sparkle_15: -1698357136951714123
+      Coins_and_Sparkle_16: -2868053195421074883
+      Coins_and_Sparkle_17: -4069701387361467762
+      Coins_and_Sparkle_18: -1378602071891578041
+      Coins_and_Sparkle_19: -2011101979472762603
+      Coins_and_Sparkle_2: 398274518147223027
+      Coins_and_Sparkle_3: 1042935217415530117
+      Coins_and_Sparkle_4: 7282134791426495115
+      Coins_and_Sparkle_5: 1445347305476689981
+      Coins_and_Sparkle_6: 3430222588628910743
+      Coins_and_Sparkle_7: -8529483789793810935
+      Coins_and_Sparkle_8: 9025877110688049609
+      Coins_and_Sparkle_9: 824203115969890775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
